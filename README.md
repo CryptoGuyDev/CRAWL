@@ -25,7 +25,6 @@
    <a href=""><img src="https://img.shields.io/badge/license-AGPLv3-purple" alt="License"></a>
    <a href=""><img src="https://img.shields.io/github/commit-activity/m/calcom/cal.com" alt="Commits-per-month"></a>
    <a href=""><img src="https://img.shields.io/badge/Pricing-Free-brightgreen" alt="Pricing"></a>
-   <img src="" alt="Checkly Availability" />
    <a href=""><img src="https://img.shields.io/docker/pulls/calendso/calendso"></a>
    <a href=""><img src="https://img.shields.io/twitch/status/calcomtv?style=flat"></a>
    <a href=""><img src="https://img.shields.io/badge/Help%20Wanted-Contribute-blue"></a>
