@@ -45,4 +45,20 @@ of your own data, workflow, and appearance.
 
 Personal Meetings And Scheduling Meetings are awesome. It made our lives massively easier. We're using it for business meetings, seminars, yoga classes, and even calls with our families. However, most tools are very limited in terms of control and customization.
 
-That's where Crawl.com comes in. Self-hosted or hosted by us. White-label by design. API-driven and ready to be deployed on your own domain. Full control of your events and data.
+### Built With
+
+- [Next.js](https://nextjs.org/)
+- [tRPC](https://trpc.io/)
+- [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Prisma.io](https://prisma.io/)
+
+## Contact us
+
+Meet our sales team for any commercial inquiries.
+
+Email: cryptogfx.official@gmail.com
+
+## Stay Up-to-Date
+
+Crawl.com officially launched as v.1.0 on the 20th of April 2024 and we've come a long way so far. Watch **releases** of this repository to be notified of future updates.
