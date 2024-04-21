@@ -33,3 +33,16 @@
    <a href=""><img src="https://img.shields.io/badge/Contributor%20Covenant-1.4-purple" /></a>
    <a href=""><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fconsole.algora.io%2Fapi%2Fshields%2Fcal%2Fbounties%3Fstatus%3Dopen" /></a>
 </p>
+
+<!-- ABOUT THE PROJECT -->
+
+## About the Project
+
+# Scheduling Meetings for absolutely everyone
+
+The open source Meeting Source. You are in charge
+of your own data, workflow, and appearance.
+
+Personal Meetings And Scheduling Meetings are awesome. It made our lives massively easier. We're using it for business meetings, seminars, yoga classes, and even calls with our families. However, most tools are very limited in terms of control and customization.
+
+That's where Crawl.com comes in. Self-hosted or hosted by us. White-label by design. API-driven and ready to be deployed on your own domain. Full control of your events and data.
