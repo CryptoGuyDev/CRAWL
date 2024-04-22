@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "CRAWL",
-  description: "Video calling App",
+  description: "Specially Developed For Business Man's For Meetings",
   icons: {
     icon: "/icons/logo.svg",
   },
