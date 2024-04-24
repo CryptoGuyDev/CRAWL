@@ -41,6 +41,9 @@ export default function RootLayout({
         <body className={`${inter.className} bg-dark-2`}>
           <Toaster />
           {children}
+          <footer className="py-4 text-center text-gray-500">
+            © {new Date().getFullYear()} Your Company Name. All rights reserved.
+          </footer>
         </body>
       </ClerkProvider>
     </html>
