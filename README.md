@@ -5,12 +5,12 @@
   <p align="center">
     The open-source Calendly successor.
     <br />
-    <a href="https://kingscord-official.vercel.app/"><strong>Learn more »</strong></a>
+    <a href="https://crawlpk.vercel.app/"><strong>Learn more »</strong></a>
     <br />
     <br />
     <a href="https://discord.gg/BgeGHvydwM">Discord</a>
     ·
-    <a href="https://kingscord-official.vercel.app/">Website</a>
+    <a href="https://crawlpk.vercel.app/">Website</a>
     ·
     <a href="https://github.com/CryptoGuyDev/kingscord/issues">Issues</a>
   </p>
