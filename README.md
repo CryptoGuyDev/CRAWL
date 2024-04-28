@@ -12,12 +12,12 @@
     ·
     <a href="https://crawlpk.vercel.app/">Website</a>
     ·
-    <a href="https://github.com/CryptoGuyDev/kingscord/issues">Issues</a>
+    <a href="https://github.com/CryptoGuyDev/CRAWL/issues">Issues</a>
   </p>
 </p>
 
 <p align="center">
-   <a href="https://discord.gg/BgeGHvydwM"><img src="https://img.shields.io/badge/Discord-go.cal.com%2Fdiscord-%234A154B" alt="Join Crew.com Discord"></a>
+   <a href="https://discord.gg/BgeGHvydwM"><img src="https://img.shields.io/badge/Discord-go.cal.com%2Fdiscord-%234A154B" alt="Join Crawl.com Discord"></a>
    <a href=""><img src="https://img.shields.io/badge/Product%20Hunt-%231%20Product%20of%20the%20Month-%23DA552E" alt="Product Hunt"></a>
    <a href=""><img height="20px" src="https://betteruptime.com/status-badges/v1/monitor/a9kf.svg" alt="Uptime"></a>
    <a href=""><img src="https://img.shields.io/github/stars/calcom/cal.com" alt="Github Stars"></a>
@@ -80,7 +80,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-https://github.com/CryptoGuyDev/kingscord/tree/main
+https://github.com/CryptoGuyDev/CRAWL/tree/main
 cd kingscord
 ```
 
